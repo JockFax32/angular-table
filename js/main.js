@@ -11,6 +11,3 @@ sortApp.controller('mainController',function($scope, $http){
 
 });
 
-	// Use and $http.get request to get the salary data
-	
-		// Set $scope.data equal to the data returned in your results
